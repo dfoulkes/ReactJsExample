@@ -1,0 +1,34 @@
+{
+  "name": "danfoulkes-reactjs",
+  "version": "0.0.1",
+  "description": "Learning React Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dfoulkes/ReactJsExample.git"
+  },
+  "keywords": [
+    "Learning",
+    "React",
+    "Js"
+  ],
+  "author": "Dan Foulkes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dfoulkes/ReactJsExample/issues"
+  },
+  "homepage": "https://github.com/dfoulkes/ReactJsExample#readme",
+  "devDependencies": {
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "react": "^0.14.0-beta3",
+    "react-dom": "^0.14.0-beta3"
+  }
+}
